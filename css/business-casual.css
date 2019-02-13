@@ -26,12 +26,19 @@ p {
   line-height: 1.75;
 }
 
+.staff {
+  margin: 20px;
+  padding: 20px;
+}
+
 .who-we-are {
   margin: 20px;
+  margin-bottom: -75px;
+  width: 40%;
 }
 
 .teacher-description {
-  color: white;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .teacher-img {
